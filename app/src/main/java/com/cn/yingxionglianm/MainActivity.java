@@ -21,5 +21,11 @@ public class MainActivity extends AppCompatActivity {
         String ss = "aa";
         String ss1 = "bb";
         String ss2 = "cc";
+
+
+        // ----------新的分支2-----------
+        String ss11 = "aa";
+        String ss12 = "bb";
+        String ss23 = "cc";
     }
 }
