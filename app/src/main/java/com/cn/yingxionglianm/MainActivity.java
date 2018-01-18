@@ -16,5 +16,9 @@ public class MainActivity extends AppCompatActivity {
         String str3 = "112233";
 
 
+       // ----------新的分支-----------
+        String ss = "aa";
+        String ss1 = "bb";
+        String ss2 = "cc";
     }
 }
