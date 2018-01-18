@@ -14,5 +14,13 @@ public class MainActivity extends AppCompatActivity {
         String str1 = "112233";
         String str2 = "112233";
         String str3 = "112233";
+
+
+
+        //------------英雄联盟-----------------
+        String a ="abc";
+        String a1 ="abc";
+        String a2 ="abc";
+        String a3 ="abc";
     }
 }
